@@ -12,7 +12,7 @@ import './gallery.css';
 const ImageGallery = () => {
   const images = [
     '/images/cats/gallery1.jpg',
-    '/images/cats/gallery2.jpg',
+    '/images/cats/cat17.png',
     '/images/cats/gallery3.webp',
     '/images/cats/gallery4.jpg',
     '/images/cats/gallery5.jpg',
