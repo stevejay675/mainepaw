@@ -16,7 +16,7 @@ const TelegramChatWidget = () => {
   return (
     <div>
       <div
-        className="elfsight-app-1791568b-4771-4368-8ebb-99904fa61c21"
+        className="elfsight-app-bd71b4e9-dc30-41eb-9816-6ecc50b3f248"
         data-elfsight-app-lazy
       ></div>
     </div>
